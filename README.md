@@ -1,0 +1,1 @@
+This Android based project was created to practice implementing CollapsingToolbarLayout.

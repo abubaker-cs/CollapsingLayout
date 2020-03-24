@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DetailesPage</string>
+    <string name="paris_city">Paris City</string>
+    <string name="menu_02">Menu 02</string>
+    <string name="menu_01">Menu 01</string>
+    <string name="menu_03">Menu 03</string>
+    <string name="menu_04">Menu 04</string>
+    <string name="menu_05">Menu 05</string>
+    <string name="menu_06">Menu 06</string>
+    <string name="menu_07">Menu 07</string>
+    <string name="menu_08">Menu 08</string>
+    <string name="menu_10">Menu 10</string>
+    <string name="menu_09">Menu 09</string>
+    <string name="menu_12">Menu 12</string>
+    <string name="menu_11">Menu 11</string>
+    <string name="menu_15">Menu 15</string>
+    <string name="menu_14">Menu 14</string>
+    <string name="menu_13">Menu 13</string>
+</resources>
